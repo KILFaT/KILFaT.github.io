@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KIlfat</title>
+    <link>http://kilfat.gihub.io/</link>
+    <description>Recent content on KIlfat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2020 Ilfat Kiniaev All Rights Reserved</copyright>
+    
+	<atom:link href="http://kilfat.gihub.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
